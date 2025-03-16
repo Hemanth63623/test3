@@ -11,6 +11,7 @@ public class Test3Application {
 	
 
         int x=200;
+        boolean ispresent=true;
 }
 
 }
