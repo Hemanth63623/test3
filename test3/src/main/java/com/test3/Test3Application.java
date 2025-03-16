@@ -10,9 +10,13 @@ public class Test3Application {
 		SpringApplication.run(Test3Application.class, args);
 
 	         int x=200;
+<<<<<<< HEAD
                 double y=100.0;
                 boolean is present=true;
 
+=======
+                 double y=100.0;
+>>>>>>> 1a175511b8a8d819aec3f1e6471a2b6c6522589d
 
      
 }
