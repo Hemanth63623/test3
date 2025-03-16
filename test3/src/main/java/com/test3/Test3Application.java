@@ -10,7 +10,7 @@ public class Test3Application {
 		SpringApplication.run(Test3Application.class, args);
 
 	         int x=200;
-                 duble y=100.0;
+                 double y=100.0;
 
      
 }
