@@ -11,7 +11,7 @@ public class Test3Application {
 
 	         int x=200;
                  boolean is present=true;
-		duble y=100.0;
+		
 
      
 }
