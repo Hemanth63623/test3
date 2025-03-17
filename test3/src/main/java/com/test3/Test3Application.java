@@ -11,10 +11,14 @@ public class Test3Application {
 
 	         int x=200;
                  int y=100;
+                 Float  z=10.3f;
+                 double y=100.0;
                  double y=100.0;
                 boolean is present=true;
 		double y=100.0;
 
+		
+		
 
                 
 
